@@ -1,1 +1,4 @@
-# resume
+# Resume
+;Andrea Rocha;
+*PMP
+*Industrial Automation
